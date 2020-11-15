@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="bg-pattern-bottom.svg"
+   id="svg11"
+   version="1.1"
+   height="978"
+   width="978">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg11"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="-18.768427"
+     inkscape:cx="447.2602"
+     inkscape:zoom="0.41491571"
+     showgrid="false"
+     id="namedview13"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox="true" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a"
+       y2="100%"
+       x2="50%"
+       y1=".779%"
+       x1="50%">
+      <stop
+         id="stop2"
+         offset="0%"
+         stop-opacity="0"
+         stop-color="#0989B4" />
+      <stop
+         id="stop4"
+         offset="99.94%"
+         stop-color="#53FFEE" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0010241,0,0,0.99897698,206.92441,-488.39756)"
+       y2="488.49974"
+       x2="-690.84295"
+       y1="423.27155"
+       x1="-670.41327"
+       id="linearGradient886"
+       xlink:href="#a"
+       inkscape:collect="always" />
+  </defs>
+  <ellipse
+     style="fill:url(#linearGradient886)"
+     fill="url(#a)"
+     transform="rotate(45)"
+     cx="695.9245"
+     cy="0.60248768"
+     rx="489"
+     ry="488"
+     fill-rule="evenodd"
+     opacity="0.5"
+     id="ellipse877" />
+</svg>
