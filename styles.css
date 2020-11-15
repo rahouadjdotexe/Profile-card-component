@@ -10,7 +10,9 @@
     margin: 0px ;
     font-family: 'Kumbh Sans', sans-serif ;
 }
-
+html{
+    width: 100% ;
+}
 
 
 
@@ -40,7 +42,9 @@ body{
     left: 50% ;
     top: 50% ;
     
-    width: 350px ;
+    width: 90% ;
+    max-width: 350px ;
+    min-width: 300px ;
     height: 375px ;
     
     background-image: url(images/bg-pattern-card.svg) ;
@@ -144,4 +148,7 @@ footer{
     
     font-size: 12px ;
     text-align: center ;
+}
+a:visited{
+    color: darkred ;
 }
